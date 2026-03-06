@@ -51,7 +51,7 @@ To download *regData.rda* and *regCode.R* files directly: [![DOI](https://zenodo
 3 Data Description
 ==================
 
-*pdata_county.rda* includes the following variables.
+*data_county.rda* includes the following variables.
 
 | Column No. | Variable Name     | Description                                               |
 |:----------:|:-----------------:|-----------------------------------------------------------|
@@ -73,7 +73,7 @@ To download *regData.rda* and *regCode.R* files directly: [![DOI](https://zenodo
 | 16         | eqip              | Environment Quality Incentive Program payments ($)        |
 | 17         | crp               | Conservation Reserve Program (1,000 acres)                |
 
-*pdata_huc8.rda* includes the following variables.
+*data_huc8.rda* includes the following variables.
 
 | Column No. | Variable Name     | Description                                               |
 |:----------:|:-----------------:|-----------------------------------------------------------|
@@ -84,7 +84,7 @@ To download *regData.rda* and *regCode.R* files directly: [![DOI](https://zenodo
 | 8          | sdepth_up         | Upstream Secchi Disk Depth (meter)                        | 
 | 9-18       | agratio - crp     | Same variable definitions as in pdata_county              |
 
-*pdata_fdm.rda* includes the following variables.
+*data_fdm.rda* includes the following variables.
 
 | Column No. | Variable Name     | Description                                               |
 |:----------:|:-----------------:|-----------------------------------------------------------|
