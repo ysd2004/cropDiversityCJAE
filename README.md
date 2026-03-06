@@ -1,7 +1,5 @@
 # R Data and Code: Park, Yun, Interis, and Yu (CJAE 2026)
 
-[![DOI](https://zenodo.org/badge/416073206.svg)](https://zenodo.org/badge/latestdoi/416073206)
-
 This repository provides the R data and code used to replicate Table 2 reported in Park et al. (CJAE, 2026). With appropriate adjustments to the code, all results presented in Park et al. (2026) can be reproduced.
 
 GitHub Repository maintained by: Seong Yun\
@@ -44,9 +42,9 @@ Download the R file from this repository to your working directory.
     ## In R
     download.file("https://raw.github.com/ysd2004/cropDiversityCJAE/main/table2.R", "table2.R")
 ```
-In *regCode.R*, it is implementable to download the regression data and perform the regression results in Table 3 and Table S2. Modifying the regression codes, all regression results in Yun and Gramig (2022) are reproducible.
+In *table2.R*, you can download the regression dataset and reproduce the regression results reported in Park et al. (2026).
 
-To download *regData.rda* and *regCode.R* files directly: [![DOI](https://zenodo.org/badge/416073206.svg)](https://zenodo.org/badge/latestdoi/416073206)
+To download all data files and *table2.R* directly: 
 
 3 Data Description
 ==================
