@@ -1,5 +1,7 @@
 # R Data and Code: Park, Yun, Interis, and Yu (CJAE 2026)
 
+[![DOI](https://sandbox.zenodo.org/badge/1173981436.svg)](https://handle.test.datacite.org/10.5072/zenodo.467211)
+
 This repository provides the R data and code used to replicate Table 2 reported in Park et al. (CJAE, 2026). With appropriate adjustments to the code, all results presented in Park et al. (2026) can be reproduced.
 
 GitHub Repository maintained by: Seong Yun\
@@ -10,9 +12,6 @@ Mississippi State University\
 *Last updated: Mar. 5, 2026*
 
 ------------------------------------------------------------------------
-
-[![DOI](https://sandbox.zenodo.org/badge/1173981436.svg)](https://handle.test.datacite.org/10.5072/zenodo.467211)
-
 R data and code used to replicate the main results reported in Park et al. (CJAE, 2026). With appropriate adjustments to the code, all results presented in Park et al. (2026) can be reproduced.
 
 1 Citation
