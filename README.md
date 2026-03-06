@@ -1,5 +1,7 @@
 # R Data and Code: Park, Yun, Interis, and Yu (CJAE 2026)
 
+[![DOI](https://zenodo.org/badge/1173981436.svg)](https://doi.org/10.5281/zenodo.18883277)
+
 This repository provides the R data and code used to replicate Table 2 reported in Park et al. (CJAE, 2026). With appropriate adjustments to the code, all results presented in Park et al. (2026) can be reproduced.
 
 GitHub Repository maintained by: Seong Yun\
@@ -45,7 +47,7 @@ Download the R file from this repository to your working directory.
 ```
 In *table2.R*, you can download the regression dataset and reproduce the regression results reported in Park et al. (2026).
 
-To download all data files and *table2.R* directly:
+To download all data files and *table2.R* directly: [![DOI](https://zenodo.org/badge/1173981436.svg)](https://doi.org/10.5281/zenodo.18883277)
 
 3 Data Description
 ==================
